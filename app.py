@@ -9,7 +9,7 @@ app.secret_key = "gizli_tavuk"
 lock = threading.Lock()
 
 # YoriChain verileri
-fiyat = 14
+fiyat = 0
 log_kaydi = []
 simulasyon_aktif = False
 kalan_sure = 0
