@@ -23,7 +23,7 @@ HTML = '''
 <html lang="tr">
 <head>
   <meta charset="utf-8">
-  <title>💰 YORICHANIN</title>
+  <title>💰 YORICHAIN</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body { background:#121212; color:#eee; }
@@ -32,7 +32,7 @@ HTML = '''
   </style>
 </head>
 <body class="container py-4">
-  <h1>💰 YORICHANIN</h1>
+  <h1>💰 YORICHAIN</h1>
 
   {% if not session.get("giris_tavuk") %}
     <h2>⛓️ YoriChain</h2>
